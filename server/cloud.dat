@@ -1,0 +1,38 @@
+[
+	{
+		"atime" : 1740052236,
+		"fsize" : 0,
+		"mtime" : 1740052236,
+		"pack_flag" : false,
+		"pack_path" : "./packdir/a.txt.lz",
+		"real_path" : "./backdir/a.txt",
+		"url" : "/download/a.txt"
+	},
+	{
+		"atime" : 1740047001,
+		"fsize" : 29524,
+		"mtime" : 1740046877,
+		"pack_flag" : true,
+		"pack_path" : "./packdir/bundle.h.lz",
+		"real_path" : "bundle.h",
+		"url" : "/download/bundle.h"
+	},
+	{
+		"atime" : 1740051862,
+		"fsize" : 5571467,
+		"mtime" : 1740051862,
+		"pack_flag" : true,
+		"pack_path" : "./packdir/bundle.cpp.lz",
+		"real_path" : "./backdir/bundle.cpp",
+		"url" : "/download/bundle.cpp"
+	},
+	{
+		"atime" : 1740052297,
+		"fsize" : 3381,
+		"mtime" : 1740052297,
+		"pack_flag" : false,
+		"pack_path" : "./packdir/id_rsa.lz",
+		"real_path" : "./backdir/id_rsa",
+		"url" : "/download/id_rsa"
+	}
+]
